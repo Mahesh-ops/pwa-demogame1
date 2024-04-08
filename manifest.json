@@ -1,6 +1,6 @@
 {
-    "name": "PWA example",
-    "short_name": "PWA demo",
+    "name": "PWA_demogame",
+    "short_name": "PWA_demogame",
     "start_url": ".",
     "background_color": "#6dcdb1",
     "theme_color": "#009578",
